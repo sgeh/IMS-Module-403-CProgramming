@@ -13,7 +13,7 @@ Schedule | Topic
 06 | [Code-Analyse, Debugging und Datentypen II](https://github.com/sgeh/IMS-Module-403-CProgramming/tree/master/06_Debugging)
 07 | [PreCompiler und formatierte Ausgaben](https://github.com/sgeh/IMS-Module-403-CProgramming/tree/master/07_PreCompiler)
 08 | [Testen](https://github.com/sgeh/IMS-Module-403-CProgramming/tree/master/08_Testen)
-09 | [Strings und Arrays](https://github.com/sgeh/IMS-Module-403-CProgramming/tree/master/09_Arrays)
+09 | [Strings und Arrays](https://github.com/sgeh/IMS-Module-403-CProgramming/tree/master/09_Strings)
 10 | [Operatoren und Repetition](https://github.com/sgeh/IMS-Module-403-CProgramming/tree/master/10_Operatoren)
 11 | [Praxisaufgabe](https://github.com/sgeh/IMS-Module-403-CProgramming/tree/master/11_Praxisaufgabe)
 12 | [Ausblick und Reflexion](https://github.com/sgeh/IMS-Module-403-CProgramming/tree/master/12_Ausblick)
